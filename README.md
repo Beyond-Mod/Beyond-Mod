@@ -1,5 +1,6 @@
 # Beyond-Mod
-Beyond Mod (B.M.); We don't buy new things, we just renovate.
+> Beyond Mod (B.M.); We don't buy new things, we just renovate.
+2026년 8월 31일에 만들어졌습니다.
 # 개조 모임입니다.
 새로운 것은 만들지 않습니다, 개조할 뿐입니다.
 # 가입 링크
